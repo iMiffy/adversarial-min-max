@@ -14,7 +14,7 @@ The objectives of <code>adversarial-min-max</code> are:
 The algorithms are re-implementations of Deepfool by Moosavi-Dezfooli et al. (2016) and Iterative-Fast Gradient Sign Method by Goodfellow et al. (2014). 
 
 # Model and data
-- You may use your trained model for inference when conducting adversarial attack; the provided model in this repository is a black box for demonstration. 
+- Please use your trained model for inference when conducting adversarial attack; the model mentioned in this repository is a black box for demonstration. 
 - Ditto input images.  
 
 # Examples
