@@ -2,7 +2,7 @@ Adversarial Attack with min/max L2-norms
 ==============
 
 The objectives of <code>adversarial-min-max</code> are:
-1. Create adversarial images that can fool a pre-trained CNN.  
+1. Create adversarial images that can fool a pre-trained classifier.  
 2. Minimise or maximise the L2-norm scores of each image, depending on the configuration. 
 
 # Requirements
